@@ -1,7 +1,9 @@
-  <img src="http://amigoni.com.br/nwl.jpg" width="250" alt="accessibility text">
+<p align="center">
+  <img src="http://amigoni.com.br/nwl.jpg"  alt="accessibility text">
+</p> 
+
 <p align="center">
   <img src="http://amigoni.com.br/octocatme.png" width="250" alt="accessibility text">
-
 </p>
 
 <p align="center">
